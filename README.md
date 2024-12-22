@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to my personal Github profile. I'm an IT security engineer living in France. Feel free to browse https://moulinier.dev for my portfolio or @p1-mmr for my professional profile.
+
 <!--
 **marin-m/marin-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
