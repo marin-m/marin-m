@@ -2,6 +2,8 @@
 
 Welcome to my personal Github profile. I'm an IT security engineer living in France. Feel free to browse https://moulinier.dev for my portfolio or [@p1-mmr](https://github.com/p1-mmr) for my professional profile.
 
+I am self-taught and the author of the desktop app [SongRec](https://github.com/marin-m/SongRec) as well as several reverse engineering and auditing tools such as [vmlinux-to-elf](https://github.com/marin-m/vmlinux-to-elf), [pbtk](https://github.com/marin-m/pbtk), [hermes-dec](https://github.com/P1sec/hermes-dec) and [QCSuper](https://github.com/P1sec/QCSuper)
+
 <!--
 **marin-m/marin-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
